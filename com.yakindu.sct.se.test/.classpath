@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jwielage/Downloads/mockito-core-3.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwielage/Downloads/assertj-core-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwielage/Downloads/mockito-core-3.2.8-javadoc.jar" sourcepath="C:/Users/jwielage/Downloads/mockito-core-3.2.8-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/jwielage/Downloads/mockito-core-3.2.8-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jwielage/Downloads/mockito-core-3.2.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwielage/Downloads/byte-buddy-1.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwielage/Downloads/byte-buddy-agent-1.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwielage/Downloads/objenesis-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
